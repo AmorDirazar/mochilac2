@@ -1,0 +1,4 @@
+1- Porque el lenguaje de maquina no puede interpretar todos los lenguajes de alto nivel.
+2- Hipervisor de tipo 2
+3- No, no afecta a las demas, porque cada una tiene su propio kernel.
+

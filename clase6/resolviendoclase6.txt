@@ -1,0 +1,17 @@
+- ¿Quien invento el sistema de version de Git y por que?
+Linux es un sistema operativo open source. En 1991, Linus Torvalds lo diseñó 
+y creó a modo de pasatiempo. Mientras estaba en la universidad, Linus intentó 
+crear una versión open source, alternativa y gratuita del sistema operativo MINIX, 
+que a su vez se basaba en los principios y el diseño de Unix.
+
+- ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, desde el navegador.
+
+
+- ¿A quien pertenece actualmente Github y por que?
+El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de 
+dólares. La compra de GitHub es un paso más en la inclinación de Microsoft para 
+enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el 
+núcleo de la empresa lo forman los desarrolladores y nada más.
+
+
